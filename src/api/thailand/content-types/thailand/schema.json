@@ -1,0 +1,76 @@
+{
+  "kind": "collectionType",
+  "collectionName": "thailandtrips",
+  "info": {
+    "singularName": "thailand",
+    "pluralName": "thailandtrips",
+    "displayName": "Thailand"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "isExclusive": {
+      "type": "boolean",
+      "default": false
+    },
+    "url": {
+      "type": "string"
+    },
+    "date": {
+      "type": "string"
+    },
+    "pricing": {
+      "type": "string"
+    },
+    "tripLength": {
+      "type": "string"
+    },
+    "groupSize": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "highlights": {
+      "type": "component",
+      "repeatable": true,
+      "component": "highlights.highlights"
+    },
+    "inclusions": {
+      "type": "component",
+      "repeatable": true,
+      "component": "highlights.inclusions"
+    },
+    "exclusions": {
+      "type": "component",
+      "repeatable": true,
+      "component": "highlights.exclusions"
+    },
+    "pricingDetails": {
+      "type": "component",
+      "repeatable": true,
+      "component": "highlights.pricing-details"
+    },
+    "groupData": {
+      "type": "component",
+      "repeatable": true,
+      "component": "highlights.group-members"
+    },
+    "groupDataTrip": {
+      "type": "component",
+      "repeatable": true,
+      "component": "highlights.group-data-trip"
+    },
+    "galleryImages": {
+      "type": "component",
+      "repeatable": true,
+      "component": "highlights.gallery-images"
+    }
+  }
+}

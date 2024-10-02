@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_highlights_inclusions",
+  "info": {
+    "displayName": "inclusions",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Inclusion1": {
+      "type": "string"
+    },
+    "Inclusion2": {
+      "type": "string"
+    },
+    "Inclusion3": {
+      "type": "string"
+    },
+    "Inclusion4": {
+      "type": "string"
+    },
+    "Inclusion5": {
+      "type": "string"
+    }
+  }
+}

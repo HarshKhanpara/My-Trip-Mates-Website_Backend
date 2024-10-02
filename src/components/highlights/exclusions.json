@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_highlights_exclusions",
+  "info": {
+    "displayName": "exclusions",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Exclusion1": {
+      "type": "string"
+    },
+    "Exclusion2": {
+      "type": "string"
+    },
+    "Exclusion3": {
+      "type": "string"
+    }
+  }
+}

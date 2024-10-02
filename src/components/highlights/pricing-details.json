@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_highlights_pricing_details",
+  "info": {
+    "displayName": "pricingDetails",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "EarlyBird": {
+      "type": "string"
+    },
+    "Normal": {
+      "type": "string"
+    }
+  }
+}

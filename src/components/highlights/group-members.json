@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_highlights_group_members",
+  "info": {
+    "displayName": "GroupMembers",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Group": {
+      "displayName": "group",
+      "type": "component",
+      "repeatable": true,
+      "component": "highlights.group"
+    }
+  }
+}

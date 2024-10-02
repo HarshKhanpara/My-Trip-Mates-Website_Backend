@@ -1,0 +1,40 @@
+{
+  "collectionName": "components_highlights_highlights",
+  "info": {
+    "displayName": "Highlights",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Highlight1": {
+      "type": "string"
+    },
+    "Highlight2": {
+      "type": "string"
+    },
+    "Highlight3": {
+      "type": "string"
+    },
+    "Highlight4": {
+      "type": "string"
+    },
+    "Highlight5": {
+      "type": "string"
+    },
+    "Highlight6": {
+      "type": "string"
+    },
+    "Highlight7": {
+      "type": "string"
+    },
+    "Highlight8": {
+      "type": "string"
+    },
+    "Highlight9": {
+      "type": "string"
+    },
+    "Highlight10": {
+      "type": "string"
+    }
+  }
+}

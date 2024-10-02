@@ -1,0 +1,40 @@
+{
+  "collectionName": "components_highlights_group_data_trips",
+  "info": {
+    "displayName": "groupDataTrip",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "FirstImage": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "SecondImage": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "ThirdImage": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": true
+    }
+  }
+}
